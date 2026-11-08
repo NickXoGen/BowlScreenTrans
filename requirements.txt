@@ -1,0 +1,7 @@
+argostranslate
+pytesseract
+Pillow
+mss
+keyboard
+pystray
+numpy==1.26.4
